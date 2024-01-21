@@ -1,4 +1,4 @@
-// creating a server
+// creating a server using nodejs
 
 // 1.Import http libray module
 const http =  require('http');
